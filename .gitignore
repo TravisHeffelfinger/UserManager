@@ -1,0 +1,4 @@
+/node_modules
+.DS_store
+/assignment.txt
+/views/includes/blocks.pug
